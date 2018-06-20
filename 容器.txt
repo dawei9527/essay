@@ -1,0 +1,3 @@
+ArrayList
+1、实现RandomAccess接口，支持随机访问，数据默认大小为10
+2、保存元素的数据使用transient修饰
